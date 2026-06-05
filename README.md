@@ -75,4 +75,10 @@ python sales_analysis.py
 
 ## Conclusion
 
-This project demonstrates data generation, preprocessing, statistical analysis, and visualization techniques using Python. It is useful for learning business analytics and data visualization concepts.
+This project demonstrates data generation, preprocessing, statistical analysis, and visualization techniques using Python. It is useful for learning business analytics and data visualization concepts. 
+output review :
+<img width="1014" height="520" alt="image" src="https://github.com/user-attachments/assets/6429af78-1db8-4749-8bba-7187251e8f17" />
+<img width="841" height="547" alt="image" src="https://github.com/user-attachments/assets/3c836239-ddf9-4d4f-969d-1394cc121858" />
+<img width="850" height="547" alt="image" src="https://github.com/user-attachments/assets/7b0a5acf-e969-4b09-bfed-1aa56123aa5d" />
+<img width="1046" height="947" alt="image" src="https://github.com/user-attachments/assets/ebc347a0-f423-4a86-893e-5c7264129efc" />
+
